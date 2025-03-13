@@ -8,7 +8,12 @@ for i in range(10):
     num = int(input(f"{i+1}. Enter a number: "))
 #     Append each number to the list.
     numbers.append(num)
-# Initialize an empty list to store unique numbers
+# Initialize an empty list to store unique numbers.
+unique = []
 # Loop through the list of numbers.
+for num in numbers:
 #     If the number appears only once in the list, add it to the unique numbers list.
+    if numbers.count(num) == 1:
+        unique.append(num)
 # Display the unique numbers.
+print(f"List of numbers: {unique}")
