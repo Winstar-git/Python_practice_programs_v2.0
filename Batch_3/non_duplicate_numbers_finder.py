@@ -9,7 +9,7 @@ for i in range(10):
 #     Append each number to the list.
     numbers.append(num)
 # Initialize an empty list to store unique numbers.
-unique = []
+unique_numbers = []
 # Loop through the list of numbers.
 for num in numbers:
 #     If the number appears only once in the list, add it to the unique numbers list.
