@@ -14,6 +14,6 @@ unique_numbers = []
 for num in numbers:
 #     If the number appears only once in the list, add it to the unique numbers list.
     if numbers.count(num) == 1:
-        unique.append(num)
+        unique_numbers.append(num)
 # Display the unique numbers.
-print(f"List of numbers: {unique}")
+print(f"List of numbers: {unique_numbers}")
