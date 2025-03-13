@@ -2,7 +2,7 @@
 # starting from 0 to 100. (Use while loop)
 
 # Initialize a variable to 0.
-num = 1
+num = 0 
 # Loop while the variable is less than or equal to 100.
 while num <= 100:
 #     Check if the variable is odd.
