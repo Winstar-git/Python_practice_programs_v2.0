@@ -1,6 +1,14 @@
 # Python_practice_programs_v2.0
 
-This repository contains a collection of Python programs designed to practice fundamental programming concepts such as loops, conditionals, lists, and mathematical operations. Each program is independent and runs separately.  
+This repository contains a collection of Python programs designed to practice fundamental programming concepts such as user input, loops, conditionals, and basic operations. The programs are grouped into four batches, each covering different problem-solving techniques.  
+
+## Features  
+- ✅ Basic arithmetic and logical operations  
+- ✅ Loop-based number processing  
+- ✅ Sorting and filtering techniques  
+- ✅ Duplicate and unique number identification  
+
+Each program focuses on improving problem-solving skills while following Python coding best practices. 🚀
 
 ## Programs Included  
 
