@@ -10,4 +10,4 @@ for i in range(10):
 #     Subtract the first number to all of the remaining numbers.
     result = numbers[0] - sum(numbers[1:])
 # Print the result.
-print(result)
+print(f"The result of the first number minus all of the remaining numbers: {result}")
